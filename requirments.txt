@@ -1,0 +1,20 @@
+streamlit==1.52.2
+pdfplumber==0.11.8
+
+# LangChain (stable)
+langchain==0.2.16
+langchain-core==0.2.43
+langchain-community==0.2.17
+langchain-text-splitters==0.2.4
+
+# Groq
+langchain-groq==0.1.9
+
+# Embeddings
+sentence-transformers==2.7.0
+
+# Vector DB (fixed)
+faiss-cpu==1.13.2
+
+# Env handling
+python-dotenv==1.0.1
